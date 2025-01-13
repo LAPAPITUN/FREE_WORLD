@@ -6,7 +6,7 @@ color: #fff; /* Цвет текста */
 </style>
 
 
-!@<body style=»background-color: #CCCCCC;»>
+ /* <body style=»background-color: #CCCCCC;»> */
 
 
 
