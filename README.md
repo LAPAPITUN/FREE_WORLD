@@ -1,7 +1,7 @@
 <style>
 body {
 background: #CCCCCC url(images/bg.jpg); /* Цвет фона и путь к файлу */
-color: #fff; /* Цвет текста */
+color: #ff1f; /* Цвет текста */
 }
 </style>
 
@@ -9,7 +9,7 @@ color: #fff; /* Цвет текста */
 
 
 
-# [ПУЛ МОИХ СЕРВЕРОВ](color a3c6c0, 1121440.ru)
+# ПУЛ МОИХ СЕРВЕРОВ
 ***
 
 
