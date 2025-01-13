@@ -1,7 +1,7 @@
 <style>
 body {
 background: #CCCCCC url(images/bg.jpg); /* Цвет фона и путь к файлу */
-color: #ff1f; /* Цвет текста */
+color: #3f888f; /* Цвет текста */
 }
 </style>
 
