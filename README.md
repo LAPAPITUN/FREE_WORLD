@@ -1,3 +1,5 @@
+<body style=»background-color: #CCCCCC;»>
+
 # ПУЛ МОИХ СЕРВЕРОВ
 ***
 
