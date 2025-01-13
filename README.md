@@ -1,12 +1,11 @@
 <style>
 body {
-background: #c7b39b url(images/bg.jpg); /* Цвет фона и путь к файлу */
+background: #CCCCCC url(images/bg.jpg); /* Цвет фона и путь к файлу */
 color: #fff; /* Цвет текста */
 }
 </style>
 
 
- /* <body style=»background-color: #CCCCCC;»> */
 
 
 
