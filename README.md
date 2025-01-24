@@ -13,6 +13,10 @@ color: #3f888f; /* Цвет текста */
 ***
 
 
+[Мой Битрикс](https://b24-8q73vd.bitrix24.ru/company/personal/user/1/tasks/)
+
+***
+
 [zabbix-server](http://zbx.1121440.ru:8080)
    
 ***
@@ -36,3 +40,4 @@ color: #3f888f; /* Цвет текста */
 [Миши 3 WG сервер](http://3serv.1121440.ru:51821)
    
 ***
+
